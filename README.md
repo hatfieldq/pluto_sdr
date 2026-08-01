@@ -13,7 +13,7 @@ A single GNU Radio flowgraph that turns an ADALM-Pluto into two things at once: 
 *Both chains in GNU Radio Companion.Rx top, Tx bottom.*
 
 <!-- Image: the radio -->
-![Running GUI](docs/images/old_radio.png)
+![Running GUI](docs/images/old_radio.jpg)
 *Radio I use*
 
 ---
