@@ -10,11 +10,11 @@ A single GNU Radio flowgraph that turns an ADALM-Pluto into two things at once: 
 
 <!-- Screenshot: the GRC canvas -->
 ![Flowgraph](docs/images/flowgraph.png)
-*Both chains in GNU Radio Companion — receive up top, transmit below, selector blocks routing each one on and off.*
+*Both chains in GNU Radio Companion.Rx top, Tx bottom.*
 
-<!-- Screenshot: the running GUI, ideally mid-scan with the waterfall visible -->
-![Running GUI](docs/images/gui_waterfall.png)
-*Scanning the band before picking a channel.*
+<!-- Image: the radio -->
+![Running GUI](docs/images/old_radio.png)
+*Radio I use*
 
 ---
 
