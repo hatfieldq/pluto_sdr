@@ -1,10 +1,10 @@
 # Personal FM Station — PlutoSDR FM Scanner + Transmitter
 
-A single GNU Radio flowgraph that turns an ADALM-Pluto into two things at once: an **FM scanner** for finding an empty spot on the dial, and a **very low power FM transmitter** that plays my computer's audio through the old analog radio in my room.
+A single GNU Radio flowgraph that turns an ADALM-Pluto into an **low power FM transmitter** that plays my computer's audio through the old analog radio in my room. It also has an **FM scanner** for finding an empty spot to transmit, giving my radio the best change it pick it up a few feet away. This allows me to stream songs via Spotify on my computer, but instead of a Bluetooth speaker or my PC speakers, I can use the radio I found at Goodwill which sounds very nice, especially for folky, acoustic music.
 
 <!-- Photo: the Pluto, the antenna/coax, and the analog radio it's talking to -->
 ![Hardware setup](docs/images/hardware_setup.jpg)
-*The Pluto and the radio it's broadcasting to.*
+*Will upload an image of the hardware set up the next time I set it up*
 
 ---
 
@@ -14,7 +14,7 @@ A single GNU Radio flowgraph that turns an ADALM-Pluto into two things at once: 
 
 <!-- Image: the radio -->
 ![Running GUI](docs/images/old_radio.jpg)
-*Radio I use*
+*The radio I use to receive*
 
 ---
 
